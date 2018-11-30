@@ -9,10 +9,10 @@
         <generator>Feed for Node.js</generator>
         <image>
             <title>CREDITSuite Blog</title>
-            <url>https://api.profeza.com/img/docusaurus.svg</url>
+            <url>https://api.profeza.com/img/favicon.png</url>
             <link>https://api.profeza.com/blog</link>
         </image>
-        <copyright>Copyright © 2018 Your Name or Your Company Name</copyright>
+        <copyright>Copyright © 2018 Profeza</copyright>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
             <link>https://api.profeza.com/blog/2017/10/24/new-version-1.0.0.html</link>

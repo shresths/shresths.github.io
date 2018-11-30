@@ -6,8 +6,8 @@
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://api.profeza.com/blog"/>
     <subtitle>The best place to stay up-to-date with the latest CREDITSuite news and events.</subtitle>
-    <logo>https://api.profeza.com/img/docusaurus.svg</logo>
-    <rights>Copyright © 2018 Your Name or Your Company Name</rights>
+    <logo>https://api.profeza.com/img/favicon.png</logo>
+    <rights>Copyright © 2018 Profeza</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
         <id>https://api.profeza.com/blog/2017/10/24/new-version-1.0.0.html</id>
